@@ -3,8 +3,6 @@
 
 <span style = 'opacity: 0.6;margin-top: 2px'>WEB DEVELOPER</span>
 
-##
-
 <a href="https://morgandaniel.dev">
   A link to my portfolio
 </a> ↗️
