@@ -1,6 +1,5 @@
-##
 
-## Hey there, I'm Morgan Daniel 👋
+<span style = 'opacity: 1;margin-top: 15px;font-size: 30px;'>Hey there, I'm Morgan Daniel 👋</span>
 
 <span style = 'opacity: 0.6;margin-top: 2px'>WEB DEVELOPER</span>
 
