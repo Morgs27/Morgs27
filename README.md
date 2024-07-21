@@ -1,8 +1,6 @@
 
 <h2 style = 'opacity: 1;margin-top: 15px;font-size: 30px;'>Hey there, I'm Morgan Daniel 👋</h2>
 
-<span style = 'opacity: 0.6;margin-top: 2px'>WEB DEVELOPER</span>
-
 <a href="https://morgandaniel.dev">
   A link to my portfolio
 </a> ↗️
